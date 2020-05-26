@@ -1,0 +1,28 @@
+.navbar{
+    background-color: grey;
+}
+
+@media (min-width: 1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 90%;
+    }
+}
+
+
+#content-container{
+    min-height:calc(100vh - 40px - 36px - 90px);
+}
+.dash-graph{
+    width:100%;
+}
+
+#month-slider{
+    width:100%;
+    margin-top:17px;
+}
+
+.filter-bar{
+    padding: 10px 0;
+    margin-bottom: 10px;
+    background: #eee;
+}

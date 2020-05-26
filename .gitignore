@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm
+.DS_Store
+.idea
+
+
+config.py
+/dashboard/pickles/
